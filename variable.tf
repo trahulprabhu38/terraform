@@ -1,0 +1,3 @@
+variable "all" {
+    default = "hello!"
+}
